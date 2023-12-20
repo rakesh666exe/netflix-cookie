@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1725028643	nfvdid	BQFmAAEBEK1OBK3u1OF2G7fCR1md4E1gZCyJ-xDlbmxKXUk0KTsDe1PbJTm-yEQntFauTW_K11zkHiRR06l16VwQ9LyYPxiw8TUzqSH5SIbscSpGT15e5nE7yqT9Vq0LEao2kV5YuctSHuWL7JKNEpp5QJ7x5xxr
+www.netflix.com	FALSE	/	FALSE	1710772718	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1725028797	OptanonAlertBoxClosed	2023-08-31T14:39:57.521Z
+.netflix.com	TRUE	/	FALSE	1728052797	dsca	customer
+.netflix.com	TRUE	/	FALSE	1726002467	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+12+2023+00%3A07%3A47+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=992403ed-52b6-4aa1-81c6-72cdce3bd848&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=TR%3B34
+.netflix.com	TRUE	/	FALSE	1726002467	amp_bdbc55	QWAcIKYs8ldnLfpTBHA-RT.MTUzNmY2YmItOTE5Ni00YzAwLTk3OTEtNDA4ZDQyYWFmODY1..1ha313suk.1ha314pc6.0.j.j
+.netflix.com	TRUE	/	TRUE	1729345256	NetflixId	ct%3DBQAOAAEBEJ1yaxegCMIW6eTjpaaenPWCcFFDo6g_3rT6goCRB8JmI0U45inpvyJaCGYJ4P6V9JL2vTjhPlp5FeCNntZQyn4fsfOZlpkpGs122muu7RyL_PNOFXu6F-DPnHhHvxQ7bvPTKsHIxXLJCyir7XJtBqjD6CkeQPynPFdlDZU-PMr5mTw7xcm6WCn2gQcpbWoEVNp4Xe16em8B2KK0SrZt4pC_cq1qCfGLte9tSrDdMCAz213PH_rJ9A_MnDWatYvJRBuNYNn0-Djip6ttHIZor-JSE1YM0BuXIH_p42zgQ5JhxW8vNxBSLr9QjhdSEcHyMNDoLeGroWQH4vIy1fVbnOetFvS0r4Oc1cN1aSKF2pO3Y4uFL4EWDnVGUoDEHKkYiH1yZaYVZnbEzgGPvAp0EbqHpEAMSR7_3AsBJiy4m7lUtKQh-h4wN31i12wB7XmtsIANbsYJvGfS1_5OLPbpxD0HOYjBNLTC7K2GvrGSakfwrb5h4IQEv1e0PHoGMjDKYGtWd19PHeQXubwUvVDRUrBueNGXFlewki9ePf4YqkYGCjpdbk-aUTNo6FO6Y4BzIxw5oXYTx9t_hB4uuQlg5WFd6Roj9wxsBxdg9AR68OiEqzIVJcr1IKpSNb5tCvpHBz6d7BduJHLodcE7M_iNbusRGuDTmuKfxe1k12eF_Dj4nSaxyAo1Lyk-1aM-G5BRqHldlEvvVeeAjvhjEaLIUxL3z1T40NjOmk34dNeiDV7ppPHnQPjroHPpdl-8bndZpixHr4HegfdGjCgjirAUj75i1wutBsLBkj7IJxr5obOww_ZEea7OEt8LmrMevEs3KukNIGeMXSx5fshcV9nJrOVHeA..%26bt%3Ddbl%26ch%3DAQEAEAABABSBA-vwPoQrhakvveaoUnPRzgMUtI3t8uM.%26v%3D2%26mac%3DAQEAEAABABQNjXSHRXbx1hajU7SD3bOweUD0S07LgyQ.
+.netflix.com	TRUE	/	TRUE	1729345256	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR8C5-QfcAlWn_cuQ6EsrKz-qovO_PbHzc.%26dt%3D1697809254110
+.netflix.com	TRUE	/	FALSE	1705585267	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1705585267	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1705585267	netflix-sans-normal-3-loaded	true

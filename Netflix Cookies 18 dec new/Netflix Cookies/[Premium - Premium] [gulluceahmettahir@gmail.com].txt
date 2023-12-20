@@ -1,0 +1,14 @@
+.netflix.com	TRUE	/	FALSE	1722875888	OptanonAlertBoxClosed	2023-08-06T16:38:08.138Z
+www.netflix.com	FALSE	/	FALSE	1708619908	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1725899888	dsca	anonymous
+secured.netflix.com	FALSE	/	FALSE	1725899941	thx_guid	4acb03e00419a3f0e6005b1e4ba616b6
+.netflix.com	TRUE	/	FALSE	1722875979	nfvdid	BQFmAAEBEFBk9ApPVbq_1cXzDxPqyhlgfs95fOAfFnYmohxR8WEaH2Maku8CoHDzcjFLLdUlEo82VpnuOVoX_Hyh0aRkU7C9rptpJkjo4-lK35gGPAzGeu89XVFO2MxFgFBGnDdBKZ75EbKgjkBLqRRYnQluZthQ
+.netflix.com	TRUE	/	FALSE	1734264068	NetflixId	ct%3DBQAOAAEBEFFScPmK7GWci_fYFD2p4CqCULE824HRf65bSYlZDQ7yfMT7zn7TFv3YeyCqJ8rXsJUMxPAHbhVRhZ6j7VbSiDzMEBlaiue3hxd02iAYt6JgOrsRpdNiyCoPKQ2eJ_rgjqastwvpDUBlLfWsObC9S0okeRDI6JONo7EfXGF0kw7e9obJ_3u_DMSlFvfCF9HGei-gJvmvEnwwEXoXc7WbwKHQGI4QJl6VjeFYXDAWlYFZDKCPMvgHgKUQSmV22DideUbbumaH6DCC_3yvN6J4LHMOro-74VVvke7MGJtPBeflROaaCRoLHooAARirSa6V_em_m8QuB5cILw_8dXCkUTZAYJAlE82IY7G1vFTR9a-TvPcEJqM6e_aFNa7bHXNGXq5ZPkRN8QfxuKp32Hi3CyD4zgjUV8zHB4oK7rGNBFM9c-Jwbq3tnZZ7dN7wI6bM5VrMujWSVcZYMjG-zp6lGXst0HAUiq6s2GRLNFHchsLVH5XlK6QA61N-dsf6DgcK2Bj2zUqg6ejQ2cC5tvSo--sl3Pj_mVGgkabCEhmhlKHOXfv92TEJhoA9Nq4qVGbl9bTOE6crMXOG-y6u9aEUkNxTRckaXBkePHt8agDa1Bm31AWRVe_5NfRUkYWbnaGvwIyKBPIYEHEg9SEZr7aJuOIkYyP7y57WHKlWaHduvIS2-2NuRW-Rk0jJO7a3Fll0Rusncivd-zsVpVyKtuOU-CKkC3n_v7vczkuSkxa9MK6SCho_Cs4WPHc9B9EupVAeYXxKIb9i5pKadM6Ihn2vPF4poYGeRif7AKFSocsJJF9ki7Q.%26bt%3Ddbl%26ch%3DAQEAEAABABQv-FFKR3oZrk-O7s-xtneobtprZnX4q_c.%26v%3D2%26mac%3DAQEAEAABABTcdgdxsFbXrEWE6b5xLY9repEnIBE9g3Q.
+.netflix.com	TRUE	/	FALSE	1734264068	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRdOj9Kngs1pu35wEVKuytauCxMoJaRUUk.%26dt%3D1702728069183
+.netflix.com	TRUE	/	FALSE	1702739480	flwssn	6aa8a16b-bc04-4f71-8262-8bbafa932d88
+.netflix.com	TRUE	/	FALSE	1734267467	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+16+2023+15%3A57%3A47+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&geolocation=TR%3B06&isIABGlobal=false&hosts=&consentId=996d2aa4-1bc3-445e-b074-29002919d442&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1710507467	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1710507467	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1710507467	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1710507467	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1702733358	profilesNewSession	0

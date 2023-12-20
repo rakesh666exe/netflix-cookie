@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1725964101	OptanonAlertBoxClosed	2023-09-11T10:28:21.918Z
+.netflix.com	TRUE	/	FALSE	1728988102	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1725964109	nfvdid	BQFmAAEBEA-G6gjLIdEED4JYS_BAXnVgxfVSFuLvuZIOD_0i8fjzsIMZ_t_IyKESoWZhuLXTD0UBmc2EI6SiKwj7fBQC9VC6cJrlPgD9pOSK_vMLyEkWcukEn1fnE5S0hSVBlSNnVTfH-DpAXOYyrvGa1mIBXugR
+www.netflix.com	FALSE	/	FALSE	1712833616	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1728907418	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+15+2023+15%3A03%3A38+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=10165c31-3af5-42f6-9743-42075bf63e28&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=TR%3B35
+.netflix.com	TRUE	/	TRUE	1729261302	NetflixId	ct%3DBQAOAAEBEKxrxLI5gMSvbar9kckR1vaCYPvKx1rUUNH6GY3b8CLGSWWfnbGU4G5MdqGGfI_t4hM3zv6jh4pMwuiqVzs9uBMBFTtL3mFOClH8j-4VR9lPzl2d4YP88ppmHj0EWpJaAwZIRCRv4clbLOr1y42BqGSgk9FDthkAwUeRtQ9Da1XpiunQj1E-jNm6zGt1q0HkvCHEehWxWtMMq7pkEojpoqWevGA9-_9zdINUevhaVqJqrcD5ojjfqUtQ6ZH-0pUi7-qFVg59X329B3dpG0rnFlkeuFKb9EEHoAyztNgdm0ODRGLBb3xyUWN-Q11dPBUJQ4FNLbEI7J89ID-JM7UD_job2vQtelJeQg2M5frQJAHs2pvZbdn8K7PddRfhSa3VzE5vaSQrNtlxEAkA_BXA7KUqfCBPp7n8nWe-5xdOZprznHWF2avZUUIkoBEFJr5CZxV_bymDm3r-qdfYQryd4yMYTvCIK2pvaRvpYfkigfG7clWyeYwDmufRPJeAZuKMRMyBXKuwZHDNJy4cQaIBmMyggJDzLgaGkTtAMjm9jKdTr3nzuKnST6Wr1ksAK06zsYWLAh1AxGeLFzOF5Z6vMVBk9BV6FtpJy2YU30NQ56OPKMXr5A2vXwH9TycMN2e9GssANo_b-b3j-rGpovLIPGGeyZmFkDA_pZN_ANz58QIikTjVNk1VEpfaqKEgg7LvWlgrcUfkffqViTuvPhtwcicWzmKTfk_gUhwfP6qKda1u5hk1sa3UAx4DfFgOgPiXApJTytrjxaj_dfqz2xlTaZ3n3vIUWLYlsIESFRgZWsKcm0NWVohZa8YTbOHrl2eQm25E%26bt%3Ddbl%26ch%3DAQEAEAABABRuihsYbxfaCYkfZvOFo2d2JaoUEfBp-r4.%26v%3D2%26mac%3DAQEAEAABABRPN4Bch0gjF8MXkyCfwU652u_xKNTe1wU.
+.netflix.com	TRUE	/	TRUE	1729261302	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSVOOpBWJRm9YSba7GZs2tpO7GZYizQ-Iw.%26dt%3D1697725310677
+.netflix.com	TRUE	/	FALSE	1705501302	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1705501302	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1705501302	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1705501302	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
