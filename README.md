@@ -8,7 +8,9 @@ Cookie not working?
 I just wanted to increase my popularity in tg !
 Thank You !!!!
 
-
+#                       How TO Use ??
+I have made a blogger for posting tutorials so please check that too
+[Click Here]()
 ## Disclaimer
 
 This tool is provided for educational purposes only. Unauthorized access to Netflix or any other service is against their terms of service. Use this tool responsibly and at your own risk.
